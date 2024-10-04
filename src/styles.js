@@ -12,7 +12,7 @@ export const Container = styled.div`
 
 export const Content = styled.div`
     background-color: #493696;
-    width: 60%;
+    width: 15rem;
     padding: 20px;
     border-radius: 10px;
     height: auto;
